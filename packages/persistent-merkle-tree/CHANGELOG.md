@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.0](https://github.com/mpetrunic/ssz/compare/persistent-merkle-tree-v0.5.0...persistent-merkle-tree-v0.6.0) (2023-02-14)
+
+
+### Features
+
+* compact multiproof ([#292](https://github.com/mpetrunic/ssz/issues/292)) ([5f1ea99](https://github.com/mpetrunic/ssz/commit/5f1ea9914d0796cf0c9a8c2f9622fc5e459a12f2))
+
 ## [0.5.0](https://github.com/ChainSafe/ssz/compare/persistent-merkle-tree-v0.4.2...persistent-merkle-tree-v0.5.0) (2023-01-24)
 
 
